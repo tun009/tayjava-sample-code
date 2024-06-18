@@ -15,6 +15,7 @@ import vn.tayjava.model.User;
 @AllArgsConstructor
 public class UserSpecification implements Specification<User> {
 
+
     private SpecSearchCriteria criteria;
 
     @Override
